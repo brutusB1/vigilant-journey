@@ -1,0 +1,28 @@
+{
+  "name": "vigilant-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "video-engagement-analyzer-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brutusB1/vigilant-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brutusB1/vigilant-journey/issues"
+  },
+  "homepage": "https://github.com/brutusB1/vigilant-journey#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "lucide-react": "^0.453.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.6.3"
+  }
+}
